@@ -1,7 +1,10 @@
 ### Hello There 👋
 ## Welcome to my Github Profile
 
-📹 Check out my Gaming YouTube channel!📹<br>
+📹 Check out my Gaming YouTube channel! 📹<br>
+https://youtube.com/Darkful
+
+🐦 Check out my Twitter! 🐦<br>
 https://youtube.com/Darkful
 
 <!--
