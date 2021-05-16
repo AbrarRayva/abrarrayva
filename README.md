@@ -1,7 +1,8 @@
 ### Hello There 👋
 ## Welcome to my Github Profile
 
-I'm a high school student from Indonesia.
+I'm a high school student from Indonesia trying to learn programming and graphic design.
+
 My Social Media                               |
 ----------------------------------------------|
 [Instagram](https://instagram.com/abrarrayva) |
