@@ -1,11 +1,11 @@
 ### Hello There 👋
 ## Welcome to my Github Profile
 
-📹 Check out my Gaming YouTube channel! 📹<br>
-https://youtube.com/Darkful
-
-🐦 Check out my Twitter! 🐦<br>
-https://youtube.com/Darkful
+I'm a high school student from Indonesia.
+My Social Media                               |
+----------------------------------------------|
+[Instagram](https://instagram.com/abrarrayva) |
+[Twitter](https://twitter.com/AbrarRayva)     |
 
 <!--
 **AbrarRayva/abrarrayva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
