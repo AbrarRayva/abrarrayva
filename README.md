@@ -8,7 +8,7 @@ I've been learning web development since 2020. I also learn Graphic Design such 
 - Email: abrar.rayva@yahoo.com
 
 ## Current Projects
-- [abrarrayva.github.io](https://abrarrayva.gtihub.io/) - A website powered by GitHub Pages. Basically a website for me to test my HTML, CSS, and JavaScript skills.
+- [abrarrayva.github.io](https://abrarrayva.github.io/) - A website powered by GitHub Pages. Basically a website for me to test my HTML, CSS, and JavaScript skills.
 - Gabud SMP - A private Minecraft Survival Multiplayer server. I'm currently working on a Discord Bot to provide informations about the server such as server ping, server status (online, offline, or under maintenance), server uptime, and much more to the members. 
 
 <!--
