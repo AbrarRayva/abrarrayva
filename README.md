@@ -1,6 +1,6 @@
 ### Hello There 👋
 I'm Abrar - A high school student from Indonesia.
-I've been learning web development since 2020. I also learn Graphic Design such as video editing, photography, and much more since 2018.
+I've been learning web development since 2020. I also learn Graphic Design such as video editing, photography, and much more since 2017.
 
 ## Social Media
 - Twitter: [@AbraRayva](https://twitter.com/AbrarRayva/)
