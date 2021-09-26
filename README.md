@@ -1,12 +1,15 @@
 ### Hello There 👋
-## Welcome to my Github Profile
+I'm Abrar - A high school student from Indonesia.
+I've been learning web development since 2020. I also learn Graphic Design such as video editing, photography, and much more since 2018.
 
-I'm a high school student from Indonesia trying to learn programming and graphic design.
+## Social Media
+- Twitter: [@AbraRayva](https://twitter.com/AbrarRayva/)
+- Instagram: [@abrarrayva](https://instagram.com/abrarrayva/)
+- Email: abrar.rayva@yahoo.com
 
-My Social Media                               |
-----------------------------------------------|
-[Instagram](https://instagram.com/abrarrayva) |
-[Twitter](https://twitter.com/AbrarRayva)     |
+## Current Projects
+- [abrarrayva.github.io](https://abrarrayva.gtihub.io/) - A website powered by GitHub Pages. Basically a website for me to test my HTML, CSS, and JavaScript skills.
+- Gabud SMP - A private Minecraft Survival Multiplayer server. I'm currently working on a Discord Bot to provide informations about the server such as server ping, server status (online, offline, or under maintenance), server uptime, and much more to the members. 
 
 <!--
 **AbrarRayva/abrarrayva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
